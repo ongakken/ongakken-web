@@ -10,6 +10,7 @@
   overflow: hidden;
   border: 1px solid #000;
   background-color: rgba(0,8,25,0.3);
+  position: sticky;
 }
 
 #menu-main {
@@ -19,4 +20,5 @@
   overflow: hidden;
   border: 1px solid #000;
   background-color: rgba(0,8,25,0.3);
+  position: sticky;
 }
