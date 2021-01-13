@@ -9,6 +9,5 @@ ul {
   padding: 0;
   overflow: hidden;
   border: 2px solid #000;
-  background-color: #222;
-  opacity: 0.3;
+  background-color: rgba(34,2,0,0.2);
 }
