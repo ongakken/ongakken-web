@@ -3,3 +3,11 @@
 .active {
   background-color: #000;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 2px solid #000;
+  background-color: #aaa;
+}
