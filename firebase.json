@@ -1,11 +1,11 @@
 {
   "hosting": {
-    "public": "public",
+    "site": "edu-ongakken",
+    "public": "edu-public",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
     ]
-    "cleanUrls": true
   }
 }
